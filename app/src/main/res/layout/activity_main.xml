@@ -65,7 +65,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/str_mutiply"
+        android:text="@string/str_multiply"
         android:id="@+id/but_multiply"
         android:layout_below="@+id/but_divide"
         android:layout_alignRight="@+id/but_divide"
@@ -76,7 +76,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/str_result"
-        android:id="@+id/textView3"
+        android:id="@+id/text_result"
         android:textColor="#f43b3b"
         android:textSize="30sp"
         android:layout_alignParentBottom="true"
